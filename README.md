@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Goleques
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently learning Phyton
+- 💞️ I’m looking to collaborate with you in any project that helps me acquire knowledge
+- 📫 How to reach me: gregoroleques@gmail.com
